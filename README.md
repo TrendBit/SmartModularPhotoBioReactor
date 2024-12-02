@@ -35,4 +35,4 @@ The device consists of interchangeable modules that can be customized for specif
 Contact us via email: bioreactor@trendbit.cz
 
 ### Acknowledgement
-This device is heavily inspired by design of Harvey Bates, you can check out his work [here](https://github.com/HarveyBates/Phenobottle)
+This device is heavily inspired by the design of Harvey Bates, you can check out his work [here](https://github.com/HarveyBates/Phenobottle)
